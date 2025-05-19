@@ -1,4 +1,4 @@
-# osTicket-Working-a-Ticket
+# osTicket-Working a Ticket
 
 
 <h2>Description</h2>
